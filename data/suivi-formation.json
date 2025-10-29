@@ -1552,25 +1552,25 @@
     {
       "id": "2025-09-16",
       "date": "2025-09-16",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-17",
       "date": "2025-09-17",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-18",
       "date": "2025-09-18",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-19",
       "date": "2025-09-19",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
@@ -1588,31 +1588,31 @@
     {
       "id": "2025-09-22",
       "date": "2025-09-22",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-23",
       "date": "2025-09-23",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-24",
       "date": "2025-09-24",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-25",
       "date": "2025-09-25",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
       "id": "2025-09-26",
       "date": "2025-09-26",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
@@ -2200,5 +2200,5 @@
       "note": ""
     }
   ],
-  "lastSaved": "2025-10-29T14:07:15.555Z"
+  "lastSaved": "2025-10-29T14:10:33.073Z"
 }

@@ -1468,25 +1468,25 @@
     {
       "id": "2025-09-02",
       "date": "2025-09-02",
-      "status": "none",
+      "status": "indisponible",
       "note": ""
     },
     {
       "id": "2025-09-03",
       "date": "2025-09-03",
-      "status": "none",
+      "status": "indisponible",
       "note": ""
     },
     {
       "id": "2025-09-04",
       "date": "2025-09-04",
-      "status": "none",
+      "status": "indisponible",
       "note": ""
     },
     {
       "id": "2025-09-05",
       "date": "2025-09-05",
-      "status": "none",
+      "status": "indisponible",
       "note": ""
     },
     {
@@ -1546,7 +1546,7 @@
     {
       "id": "2025-09-15",
       "date": "2025-09-15",
-      "status": "none",
+      "status": "entreprise",
       "note": ""
     },
     {
@@ -2200,5 +2200,5 @@
       "note": ""
     }
   ],
-  "lastSaved": "2025-10-29T14:01:34.336Z"
+  "lastSaved": "2025-10-29T14:07:15.555Z"
 }

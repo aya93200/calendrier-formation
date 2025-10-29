@@ -1,2 +1,0 @@
-# calendrier-formation
-Pour chantale

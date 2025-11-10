@@ -1888,8 +1888,9 @@
     {
       "id": "2025-11-11",
       "date": "2025-11-11",
-      "status": "indisponible",
-      "note": ""
+      "status": "absent",
+      "note": "repos férié",
+      "takenHours": 0
     },
     {
       "id": "2025-11-12",
@@ -2200,5 +2201,5 @@
       "note": ""
     }
   ],
-  "lastSaved": "2025-11-10T11:37:56.815Z"
+  "lastSaved": "2025-11-10T11:40:45.266Z"
 }

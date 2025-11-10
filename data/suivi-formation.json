@@ -1504,31 +1504,31 @@
     {
       "id": "2025-09-08",
       "date": "2025-09-08",
-      "status": "absent",
+      "status": "centre",
       "note": ""
     },
     {
       "id": "2025-09-09",
       "date": "2025-09-09",
-      "status": "none",
+      "status": "centre",
       "note": ""
     },
     {
       "id": "2025-09-10",
       "date": "2025-09-10",
-      "status": "none",
+      "status": "centre",
       "note": ""
     },
     {
       "id": "2025-09-11",
       "date": "2025-09-11",
-      "status": "none",
+      "status": "centre",
       "note": ""
     },
     {
       "id": "2025-09-12",
       "date": "2025-09-12",
-      "status": "none",
+      "status": "centre",
       "note": ""
     },
     {
@@ -1630,7 +1630,7 @@
     {
       "id": "2025-09-29",
       "date": "2025-09-29",
-      "status": "none",
+      "status": "centre",
       "note": ""
     },
     {
@@ -2201,5 +2201,5 @@
       "note": ""
     }
   ],
-  "lastSaved": "2025-11-10T11:42:18.371Z"
+  "lastSaved": "2025-11-10T11:44:41.089Z"
 }

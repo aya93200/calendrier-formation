@@ -1642,7 +1642,7 @@
     {
       "id": "2025-10-01",
       "date": "2025-10-01",
-      "status": "entreprise",
+      "status": "centre",
       "note": ""
     },
     {
@@ -1888,7 +1888,7 @@
     {
       "id": "2025-11-11",
       "date": "2025-11-11",
-      "status": "entreprise",
+      "status": "indisponible",
       "note": ""
     },
     {
@@ -2200,5 +2200,5 @@
       "note": ""
     }
   ],
-  "lastSaved": "2025-11-10T11:35:33.699Z"
+  "lastSaved": "2025-11-10T11:37:56.815Z"
 }
